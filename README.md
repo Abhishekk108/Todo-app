@@ -7,6 +7,9 @@ A simple and interactive Todo List app built with React. Features include:
 - Default tasks included
 - Clean and modern UI with background image and hover effects
 
+## Demo
+Check out the live demo here: [Netlify Link](https://abhii-todo-app.netlify.app/)
+
 
 ## Installation
 
