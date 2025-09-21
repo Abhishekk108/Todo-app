@@ -3,7 +3,7 @@ body {
     background: #f0f4f8;
     display: flex;
     color: #ffffff;
-    background-image: url('./bg.jpg');
+    background-image: url('/src/assets/bg.jpg');
     background-size: cover;
     justify-content: center;
     padding-top: 50px;
