@@ -1,5 +1,5 @@
 import "./App.css";
-import { ProductTab } from "./productTab";
+
 import TodoList from "./todoList.jsx";
 
 function App() {
